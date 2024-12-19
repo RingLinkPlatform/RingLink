@@ -3,9 +3,15 @@
 </p>
 
 <p align="center">
-    <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/RingLinkNet?style=flat">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-RingLink-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fringlink">
-    <img alt="GitHub License" src="https://img.shields.io/github/license/RingLinkPlatform/ringlink">
+    <a href="https://x.com/RingLinkNet">
+      <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/RingLinkNet?style=flat">
+    </a>
+    <a href="https://www.linkedin.com/company/ringlink">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-RingLink-blue">
+    </a>
+    <a href="https://github.com/RingLinkPlatform/RingLink/blob/master/LICENSE">
+      <img alt="GitHub License" src="https://img.shields.io/github/license/RingLinkPlatform/ringlink">
+    </a>
 </p>
 
 🌍 Explore more at [ring.link](https://ring.link)  
