@@ -1,0 +1,23 @@
+[package]
+name = "ringlink-core"
+description = "implemention of RingLink network core function"
+authors = ["boot <boot@ring.link>"]
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ringlink-identity = { git = "https://github.com/RingLinkPlatform/identity" }
+ringlink-protocol = { git = "https://github.com/RingLinkPlatform/protocol" }
+ringlink-transport = { git = "https://github.com/RingLinkPlatform/transport" }
+ringlink-p2p = { git = "https://github.com/RingLinkPlatform/p2p" }
+
+arc-swap = "1.7.1"
+bytes = "1.9"
+openssl = "0.10.68"
+parking_lot = "0.12.3"
+thiserror = "2.0.6"
+tokio = { version = "1.42", features = ["rt", "sync", "macros"]}
+tracing = "0.1.41"
+async-trait = "0.1.83"
+tokio-stream = { version = "0.1", features = ["sync"] }
+papaya = "0.1.6"
